@@ -7,7 +7,7 @@ All of the tests were made in Pycharm IDE.
 
 We tried three different controls using three diferent tools.
 
-<img align="center" width="400" height="400" src="">
+<img align="center" width="400" height="400" src="Computer_Vision_practice/ivc.png">
 
 
 
